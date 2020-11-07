@@ -56,6 +56,8 @@ Buterin提到，由于每笔费用都需要销毁其中一部分，当交易量�
 
 因此，此次升级将有助于解决用户当前面临的一些问题，例如最佳交易费用难以预测和交易处理时间过长。
 
+
+
 参考链接：
 
 \[1] <https://cointelegraph.com/news/eth-20-issuance-will-be-2-million-a-year-at-most-says-vitalik>
