@@ -16,7 +16,7 @@ const IndexPage = () => {
         }
       allMarkdownRemark(
         filter: { frontmatter: { id: { eq: "blog" } } }
-        sort: { fields: frontmatter___date, order: DESC }, limit: 4
+        sort: { fields: frontmatter___date, order: DESC }
       ) {
         nodes {
           frontmatter {
