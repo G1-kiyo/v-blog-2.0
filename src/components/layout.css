@@ -1,0 +1,116 @@
+body{
+    background-color:white !important;
+}
+
+p {
+    font-family: 'Segoe UI Light','Segoe WP Light','wf_segoe-ui_light','wf_segoe-ui_normal','Segoe UI','Segoe WP',Helvetica,Tahoma,Arial,sans-serif;
+    font-weight: 300;
+    font-size: 1.5em;
+    line-height: 1.8;
+    color: #1e1e1e;
+    margin-top: 48px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: -apple-system,'BlinkMacSystemFont','Segoe UI','Roboto','Helvetica Neue','Arial','Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    font-size: 48px !important;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    line-height: 56px;
+    margin-top: 56px !important;
+    margin-bottom: 10px !important
+}
+
+h2 {
+    font-family: -apple-system,'BlinkMacSystemFont','Segoe UI','Roboto','Helvetica Neue','Arial','Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    font-size: 30px !important;
+    color: #333333;
+    line-height: 44px;
+    font-weight: 700 !important;
+    letter-spacing: 1px;
+    margin-top: 56px !important;
+    margin-bottom:10px !important
+}
+
+h3 {
+    font-family: -apple-system,'BlinkMacSystemFont','Segoe UI','Roboto','Helvetica Neue','Arial','Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    font-size: 24px !important;
+    line-height: 32px;
+    font-weight: 700 !important;
+    letter-spacing: 0;
+    margin-top: 56px !important;
+    margin-bottom: 10px !important
+}
+h4 {
+    font-family: -apple-system,'BlinkMacSystemFont','Segoe UI','Roboto','Helvetica Neue','Arial','Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    font-size: 18px !important;
+    margin-top: 10px !important;
+    margin-top: 56px !important;
+    margin-bottom: 10px !important
+}
+ul {
+    line-height: 2rem;
+}
+
+li {
+    line-height: 4.25vh;
+    font-family: NotoSansSC-Regular;
+    font-size: 1rem;
+    margin:25px
+    
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+::selection {
+    background: #fefba0;
+    color: #000;
+}
+
+::-moz-selection {
+    background: #fefba0;
+    color: #000;
+}
+
+::-webkit-selection {
+    background: #fefba0;
+    color: #000;
+}
+
+ol {
+    margin-left: 1.45rem;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    margin-bottom: 1.45rem;
+    list-style-position: outside;
+    list-style-image: none;
+}
+
+small {
+    font-size: 80%;
+    color: #B9B7BD
+}
+
+strong{
+    font-weight:500 !important
+}
+
+footer{
+    clear:both
+}
+
+#intro,
+#list{
+    display:flex;
+    flex-wrap:wrap
+}
