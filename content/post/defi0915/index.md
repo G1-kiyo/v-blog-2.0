@@ -10,10 +10,6 @@ tags: Vitalik View
 author: Tim Copeland
 id: blog
 ---
-
-
-
-
 <!--StartFragment-->
 
 昨日，以太坊联合创始人 Vitalik Buterin 在特拉维夫 Ethereal 峰会问答环节中谈论到以太坊大生态的发展状况。
