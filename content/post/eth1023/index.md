@@ -10,6 +10,10 @@ tags: ETH2
 author: Vitalik Buterin
 id: blog
 ---
+
+
+
+
 <!--StartFragment-->
 
 ## 要点提炼
