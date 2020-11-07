@@ -10,10 +10,6 @@ tags: 区块链
 author: Vitalik Buterin
 id: blog
 ---
-
-
-
-
 可以结合这些文章一起看:
 
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
