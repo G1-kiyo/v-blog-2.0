@@ -10,6 +10,10 @@ tags: 以太坊2.0
 author: Vitalik Buterin
 id: blog
 ---
+
+
+
+
 <!--StartFragment-->
 
 以太坊创始人Vitalik Buterin在POV Crypto Podcast的[采访](https://povcryptopod.libsyn.com/133-internet-money-w-vitalik-buterin)中讨论了EIP-1559和以太坊2.0的货币政策。
@@ -54,7 +58,7 @@ Buterin提到，由于每笔费用都需要销毁其中一部分，当交易量�
 
 参考链接：
 
-*\[1] <https://cointelegraph.com/news/eth-20-issuance-will-be-2-million-a-year-at-most-says-vitalik>*
+\[1] <https://cointelegraph.com/news/eth-20-issuance-will-be-2-million-a-year-at-most-says-vitalik>
 
 \[2] <https://www.crypto-news-flash.com/buterin-ethereum-2-0-will-issue-100000-to-2-million-eth-per-year/>
 
