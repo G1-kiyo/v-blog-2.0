@@ -10,46 +10,40 @@ tags: DeFi
 author: Vitalik Buterin
 id: blog
 ---
+
+
+
+
 Gitcoin Grants第七轮已经圆满结束了！在本轮中，大家的兴趣空前高涨，捐赠数额也有所增长：857个项目获得27.483万美元捐赠以及45万美元匹配资金。
 
 本轮捐赠类别再次发生了改变，分为“dapp技术”、“基础设施技术”以及“社区”。以下是本轮Grant的最终结果：
 
 ![img](round7-1.png)
 
-
-
 ![img](round7-2.png)
-
-
 
 ![img](round7-3.png)
 
-
-
-<h2>DeFi贡献了匹配资金！</h2>
+## DeFi贡献了匹配资金！
 
 在这一轮中，我们的匹配金额比以往高出许多。这是因为除了以太坊基金会和其他一些参与者提供的常规匹配资金之外，首次获得了各个defi项目的高度参与：
 
-
-
 ![img](round7-4.png)
-
-
 
 匹配资金提供者有：
 
-- [Chainlink](https://chain.link/)，智能合约预言机项目
-- Optimism，layer2 optimistic rollup方案
-- 以太坊基金会
-- Balancer，去中心化交易所
-- [Synthetix](https://synthetix.io/)，合成资产平台
-- [Yearn](https://yearn.finance/)，抵押贷款平台
-- [Three Arrows Capital](https://www.threearrowscap.com/about-us/)，投资基金
-- [Defiance Capital](https://twitter.com/defiancecapital)，投资基金
-- [Future Fund](https://twitter.com/future_fund_)，这绝对不是一家投资基金
-- $MEME，meme币
-- [Yam](https://yam.finance/)，defi项目
-- 一些个人捐献者：ferretpatrol, [bantg](https://twitter.com/bantg/), [Mariano Conti](https://twitter.com/nanexcool/), [Robert Leshner](https://twitter.com/rleshner/), [Eric Conner](https://vitalik.ca/general/2020/10/18/twitter.com/econoar/), [10b576da0](https://twitter.com/10b57e6da0)
+* [Chainlink](https://chain.link/)，智能合约预言机项目
+* Optimism，layer2 optimistic rollup方案
+* 以太坊基金会
+* Balancer，去中心化交易所
+* [Synthetix](https://synthetix.io/)，合成资产平台
+* [Yearn](https://yearn.finance/)，抵押贷款平台
+* [Three Arrows Capital](https://www.threearrowscap.com/about-us/)，投资基金
+* [Defiance Capital](https://twitter.com/defiancecapital)，投资基金
+* [Future Fund](https://twitter.com/future_fund_)，这绝对不是一家投资基金
+* $MEME，meme币
+* [Yam](https://yam.finance/)，defi项目
+* 一些个人捐献者：ferretpatrol, [bantg](https://twitter.com/bantg/), [Mariano Conti](https://twitter.com/nanexcool/), [Robert Leshner](https://twitter.com/rleshner/), [Eric Conner](https://vitalik.ca/general/2020/10/18/twitter.com/econoar/), [10b576da0](https://twitter.com/10b57e6da0)
 
 这些项目提供了大量的匹配资金，其中一些已在本轮中使用，也有一些资金预留作为“应急基金”，以防在未来轮次中匹配金额变少。
 
@@ -89,21 +83,13 @@ Gitcoin Grants第七轮已经圆满结束了！在本轮中，大家的兴趣空
 
 但是自此事情的走向更加吊诡。第七轮半途引入了“[collection”功能](https://gitcoin.co/grants/collections)：
 
-
-
 ![img](round7-5.png)
-
-
-
-
 
 如果我们在一个系列中点击“加入购物车”，就会将该系列中的所有项目都加入到购物车中。这个功能很奇怪，因为者似乎传递出了完全相反的信息：不清楚个中细节的用户可以选择将资金分配到整个类别，但是用户不能在每个类别中做出更主动的决策，除非手动编辑数量。
 
 那么到底是怎样？我们信赖激进的二次方民主在每个类别中进行分配，却忽视了类别之间的分配？我们信赖其在每个类别之间进行分配，却不让人们在其中做出更细致的决策？我建议在第八轮中，应该对这些哲学挑战进行更加深入的思考，并且制定一种更具原则性的方式。
 
 一种方案是只设立一个资金匹配池，然后所有的类别都作为自动的UI层。另一种方案则是以一种“扶持行动”(affirmative action) 的方式来启动特定类别。例如，我们可以将社区类别按地域划分，每个地域设立25,000美元的匹配资金池，如北美洲+大洋洲、拉丁美洲、欧洲、非洲、中东、印度、中亚+东南亚，从而使得更多被忽视的地区项目从中受益。还有许多可能性！还有一种混合路线，“主要”资金池可以在上一轮中自己二次融资！
-
-
 
 ### 身份验证
 
@@ -120,8 +106,6 @@ Gitcoin Grants第七轮已经圆满结束了！在本轮中，大家的兴趣空
 ![img](round7-7.png)
 
 主要成果简单来说就是ZK rollup确实成功地降低了费用！用户体验也不错。目前许多optimistic和ZK rollup项目都在寻求和[钱包集成](https://www.theblockcrypto.com/linked/80744/coinbase-wallet-optimisms-layer-2-rollup)，这能够进一步推动L2扩容技术的可用性和安全性。
-
-
 
 ### 结语
 
