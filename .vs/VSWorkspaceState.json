@@ -2,12 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\post",
     "\\src",
     "\\src\\components",
+    "\\src\\images",
     "\\src\\pages",
-    "\\src\\templates"
+    "\\src\\templates",
+    "\\static",
+    "\\static\\admin",
+    "\\static\\img"
   ],
-  "SelectedNode": "\\src\\templates\\post.js",
+  "SelectedNode": "\\static\\admin\\config.yml",
   "PreviewInSolutionExplorer": false
 }
